@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/CheneyKwok">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=CheneyKwok&show_icons=true&include_all_commits=true&&hide=contribs,issues&theme=dark" />
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=CheneyKwok&show_icons=true&include_all_commits=true&theme=dark" />
   <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheneyKwok&layout=compact&langs_count=8&theme=dark" />
 </a>
 <p align="center">
